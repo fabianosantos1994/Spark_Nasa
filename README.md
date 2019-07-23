@@ -130,10 +130,10 @@ counts.saveAsTextFile("hdfs://...")
 
 
 ## Referências
-http://spark.apache.org/docs/latest/rdd-programming-guide.html#rdd-persistence
-https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c
-http://spark.apache.org/docs/2.2.2/api/java/org/apache/spark/SparkContext.html
-https://spark.apache.org/docs/latest/rdd-programming-guide.html#overview
-https://www.infoq.com/br/articles/mapreduce-vs-spark
-https://data-flair.training/blogs/learn-apache-spark-sparkcontext/
-http://etlcode.com/index.php/blog/info/Bigdata/Apache-Spark-Difference-between-reduceByKey-groupByKey-and-combineByKey
+    http://spark.apache.org/docs/latest/rdd-programming-guide.html#rdd-persistence
+    https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c
+    http://spark.apache.org/docs/2.2.2/api/java/org/apache/spark/SparkContext.html
+    https://spark.apache.org/docs/latest/rdd-programming-guide.html#overview
+    https://www.infoq.com/br/articles/mapreduce-vs-spark
+    https://data-flair.training/blogs/learn-apache-spark-sparkcontext/
+    http://etlcode.com/index.php/blog/info/Bigdata/Apache-Spark-Difference-between-reduceByKey-groupByKey-and-combineByKey
